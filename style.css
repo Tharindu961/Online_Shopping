@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+}
+.slider{
+	width: 850px;
+	height: 480px;
+	background: url(2.jpg);
+	margin: 100px auto;
+}
+
+.col-md-3.thumbnailproduct-box  {
+	width:6%;
+	float:right;
+
+}
